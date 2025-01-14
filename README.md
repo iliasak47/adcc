@@ -1,4 +1,4 @@
-ADCC Historical Data Analysis
+# ADCC Historical Data Analysis
 Project Overview
 This project uses statistical and machine learning techniques to analyze historical match data from the Abu Dhabi Combat Club (ADCC) competitions. The key objectives are to uncover patterns in match outcomes and athlete performance strategies.
 
